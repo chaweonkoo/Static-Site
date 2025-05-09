@@ -7,3 +7,4 @@
 4. Simple integration for Flodesk
 5. Add a contact form
 6. Add a footer with social media links
+7. Embed product videos and order form
